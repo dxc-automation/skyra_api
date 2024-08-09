@@ -1,0 +1,2093 @@
+2024-08-01 23:29:16.0821 By.Id: menu-item-4436 has been successfully localized 
+2024-08-01 23:31:19.1931    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at skyra.Utility.ActionsElements.IsElementFound(IWebDriver driver, By locator) in H:\PROJECTS\skyra_api\TestProject1\Utility\ActionsElements.cs:line 25 
+2024-08-02 00:14:43.7764 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 00:14:43.9666 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 00:14:45.4480 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 12:47:06.5731 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 12:47:06.7766 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 12:47:08.7029 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 12:57:20.7807 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 12:57:20.9849 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 12:57:22.5384 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 12:57:29.0651    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at skyra.Utility.ActionsElements.IsElementFound(IWebDriver driver, By locator) in H:\PROJECTS\skyra_api\TestProject1\Utility\ActionsElements.cs:line 26 
+2024-08-02 13:07:24.5475 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 13:07:24.7582 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 13:07:26.3211 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 13:07:33.1343    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at skyra.Utility.ActionsElements.IsElementFound(IWebDriver driver, By locator) in H:\PROJECTS\skyra_api\TestProject1\Utility\ActionsElements.cs:line 26 
+2024-08-02 13:15:58.2648 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 13:15:58.4863 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 13:16:00.0776 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 13:16:07.3573    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at skyra.Utility.ActionsElements.IsElementFound(IWebDriver driver, By locator) in H:\PROJECTS\skyra_api\TestProject1\Utility\ActionsElements.cs:line 26 
+2024-08-02 13:31:00.9857 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 13:31:01.2041 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 13:31:02.8627 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 13:46:45.9356 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 13:46:46.1531 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 13:46:48.1488 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 13:51:02.2042 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 13:51:02.4184 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 13:51:04.0683 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 13:58:14.7849 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 13:58:14.9967 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 13:58:16.8794 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-02 14:33:39.7366 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-02 14:33:39.9541 By.Id: menu-item-4436 has been successfully localized 
+2024-08-02 14:33:41.4794 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-03 20:05:07.8259 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-03 20:05:08.0339 By.Id: menu-item-4436 has been successfully localized 
+2024-08-03 20:05:09.9220 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-04 11:04:12.2908 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-04 11:04:12.5579 By.Id: menu-item-4436 has been successfully localized 
+2024-08-04 11:04:14.3268 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-04 11:15:35.8445 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-04 11:15:36.0571 By.Id: menu-item-4436 has been successfully localized 
+2024-08-04 11:15:37.8512 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-04 11:19:12.5577 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-04 11:19:12.7858 By.Id: menu-item-4436 has been successfully localized 
+2024-08-04 11:19:14.3921 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-04 11:19:32.8937 
+
+https://blankfactor.com/ 
+2024-08-04 11:19:33.0116 
+
+https://blankfactor.com/about/ 
+2024-08-04 11:19:33.0373 
+
+https://blankfactor.com/services/ 
+2024-08-04 11:19:33.0622 
+
+https://blankfactor.com/services/data-digital-engineering/ 
+2024-08-04 11:19:33.0833 
+
+https://blankfactor.com/data-engineering-and-business-intelligence/#data_lakes 
+2024-08-04 11:19:33.1101 
+
+https://blankfactor.com/data-engineering-and-business-intelligence/#etl_elt_and_migrations 
+2024-08-04 11:19:33.4430 
+
+https://blankfactor.com/services/enterprise-ai/ 
+2024-08-04 11:19:33.4669 
+
+https://blankfactor.com/services/enterprise-ai/#financial_services 
+2024-08-04 11:19:33.4870 
+
+https://blankfactor.com/services/enterprise-ai/#life_sciences 
+2024-08-04 11:19:33.5080 
+
+https://blankfactor.com/insights/blog/# 
+2024-08-04 11:19:33.5284 
+
+https://blankfactor.com/services/front-end-development/ 
+2024-08-04 11:19:33.5615 
+
+https://blankfactor.com/services/back-end-development/ 
+2024-08-04 11:19:33.5909 
+
+https://blankfactor.com/services/quality-assurance/ 
+2024-08-04 11:19:33.6263 
+
+https://blankfactor.com/services/cloud-devops/ 
+2024-08-04 11:19:33.6507 
+
+https://blankfactor.com/services/mobile-app-development/ 
+2024-08-04 11:19:33.6921 
+
+https://blankfactor.com/industries/ 
+2024-08-04 11:19:33.7250 
+
+https://blankfactor.com/industries/banking-capital-markets/ 
+2024-08-04 11:19:33.7588 
+
+https://blankfactor.com/industries/payments/ 
+2024-08-04 11:19:33.7809 
+
+https://blankfactor.com/industries/insurance/ 
+2024-08-04 11:19:33.8012 
+
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 11:19:33.8301 
+
+https://blankfactor.com/careers/ 
+2024-08-04 11:19:33.8568 
+
+https://blankfactor.com/insights/ 
+2024-08-04 11:19:33.8824 
+
+https://blankfactor.com/contact/ 
+2024-08-04 11:19:33.9015 
+
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 11:19:33.9249 
+
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 11:19:33.9460 
+
+https://twitter.com/_Blankfactor 
+2024-08-04 11:19:33.9662 
+
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 11:19:34.0067 
+
+https://blankfactor.com/ 
+2024-08-04 11:19:34.0392 
+
+https://blankfactor.com/services/full-stack-product-development/ 
+2024-08-04 11:19:34.1480 
+
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 11:19:34.1798 
+
+https://blankfactor.com/insights/blog/10-years-accelerating-digital-innovation-in-financial-services/ 
+2024-08-04 11:19:34.2117 
+
+https://blankfactor.com/insights/blog/leadership-mindset-culture-fuel-digital-transformation/ 
+2024-08-04 11:19:34.2469 
+
+https://blankfactor.com/insights/blog/heres-how-ux-teams-and-design-thinking-can-power-your-next-digital-product/ 
+2024-08-04 11:19:34.2745 
+
+https://blankfactor.com/insights/blog/want-digital-transformation-optimize-your-cloud-strategy-and-go-cloud-native-in-2023/ 
+2024-08-04 11:19:34.3073 
+
+https://blankfactor.com/insights/blog/success-stories/ 
+2024-08-04 11:19:34.3345 
+
+https://blankfactor.com/insights/blog/consensus-algorithms/ 
+2024-08-04 11:19:34.3665 
+
+https://blankfactor.com/insights/blog/design-thinking/ 
+2024-08-04 11:19:34.3989 
+
+https://blankfactor.com/insights/blog/hiring-and-recruitment/ 
+2024-08-04 11:19:34.4348 
+
+https://blankfactor.com/insights/blog/embedded-financial-services/ 
+2024-08-04 11:19:34.4748 
+
+https://blankfactor.com/fis-emerald/ 
+2024-08-04 11:19:34.5268 
+
+https://blankfactor.com/contact/ 
+2024-08-04 11:19:34.5677 
+
+https://blankfactor.com/services/ 
+2024-08-04 11:19:34.6022 
+
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 11:19:34.6600 
+
+https://blankfactor.com/ 
+2024-08-04 11:19:34.7119 
+Services
+https://blankfactor.com/services/ 
+2024-08-04 11:19:34.7581 
+
+https://blankfactor.com/services/data-digital-engineering/ 
+2024-08-04 11:19:34.7971 
+
+https://blankfactor.com/services/enterprise-ai/ 
+2024-08-04 11:19:34.8297 
+
+https://blankfactor.com/services/full-stack-product-development 
+2024-08-04 11:19:34.8633 
+
+https://blankfactor.com/services/ 
+2024-08-04 11:19:34.9011 
+Industries
+https://blankfactor.com/industries/ 
+2024-08-04 11:19:34.9496 
+
+https://blankfactor.com/industries/banking-capital-markets/ 
+2024-08-04 11:19:34.9867 
+
+https://blankfactor.com/industries/payments/ 
+2024-08-04 11:19:35.0192 
+
+https://blankfactor.com/industries/insurance/ 
+2024-08-04 11:19:35.0499 
+
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 11:19:35.0858 
+
+https://blankfactor.com/contact/ 
+2024-08-04 11:19:35.1348 
+Insights
+https://blankfactor.com/insights/ 
+2024-08-04 11:19:35.2134 
+Careers
+https://blankfactor.com/careers/ 
+2024-08-04 11:19:35.2604 
+About
+https://blankfactor.com/about/ 
+2024-08-04 11:19:35.2996 
+Let's talk
+https://blankfactor.com/contact/ 
+2024-08-04 11:19:35.3306 
+
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 11:19:35.3538 
+
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:35.4136 
+
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 11:19:35.4454 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:35.4741 
+
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 11:19:35.5023 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:35.5269 
+
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:35.5573 
+
+https://blankfactor.com/category/data/ 
+2024-08-04 11:19:35.5876 
+
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:35.6207 
+
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 11:19:35.6585 
+
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 11:19:35.6947 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:35.7283 
+
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 11:19:35.7689 
+
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 11:19:35.8010 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:35.8273 
+
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:35.8535 
+
+https://blankfactor.com/category/data/ 
+2024-08-04 11:19:35.8933 
+
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:35.9253 
+
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 11:19:35.9593 
+
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 11:19:35.9861 
+
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:36.0137 
+
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 11:19:36.0415 
+
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:36.0700 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:36.0988 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:36.1219 
+
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:36.1493 
+
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 11:19:36.1763 
+
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:36.2167 
+
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 11:19:36.2513 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:36.2943 
+
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 11:19:36.3356 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:36.3777 
+
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:36.4257 
+Data
+https://blankfactor.com/category/data/ 
+2024-08-04 11:19:36.4510 
+Key impacts of T+1: Navigating financial services transformation
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:36.4715 
+
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 11:19:36.4987 
+
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 11:19:36.5339 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:36.5590 
+Malay Patel
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 11:19:36.5784 
+Heather Jordan
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 11:19:36.5988 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:36.6221 
+Read more
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:36.6421 
+
+https://blankfactor.com/category/data/ 
+2024-08-04 11:19:36.6667 
+
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:36.6942 
+
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 11:19:36.7266 
+
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 11:19:36.7555 
+
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:36.7975 
+
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 11:19:36.8274 
+
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:36.8550 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:36.8806 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:36.9090 
+
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:36.9339 
+
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 11:19:36.9556 
+
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:36.9994 
+
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 11:19:37.0477 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:37.0790 
+
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 11:19:37.1067 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:37.1485 
+
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:37.1783 
+
+https://blankfactor.com/category/data/ 
+2024-08-04 11:19:37.2131 
+
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:37.2607 
+
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 11:19:37.3095 
+
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 11:19:37.3435 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:37.3857 
+
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 11:19:37.4232 
+
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 11:19:37.4586 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:37.4924 
+
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:37.5206 
+
+https://blankfactor.com/category/data/ 
+2024-08-04 11:19:37.5541 
+
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:37.5836 
+
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 11:19:37.6129 
+
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 11:19:37.6397 
+
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:37.6699 
+
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 11:19:37.6993 
+
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:37.7370 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:37.7824 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:37.8202 
+
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:37.8616 
+
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:37.9173 
+Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 11:19:37.9738 
+Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:38.0109 
+
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 11:19:38.0445 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:38.0771 
+Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 11:19:38.1150 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:38.1557 
+Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 11:19:38.2281 
+
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:38.3075 
+Data
+https://blankfactor.com/category/data/ 
+2024-08-04 11:19:38.4170 
+Key impacts of T+1: Navigating financial services transformation
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:38.5209 
+
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 11:19:38.6534 
+
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 11:19:38.7743 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:38.8461 
+Malay Patel
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 11:19:38.8894 
+Heather Jordan
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 11:19:38.9363 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:38.9783 
+Read more
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 11:19:39.0348 
+
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:39.1069 
+Data
+https://blankfactor.com/category/data/ 
+2024-08-04 11:19:39.1494 
+Enabling data and digital transformation for a wealth management leader
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:39.2159 
+
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 11:19:39.2758 
+Denise D'Angelo
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 11:19:39.3172 
+Read more
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 11:19:39.3518 
+
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 11:19:39.3930 
+Software development
+https://blankfactor.com/category/software-development/ 
+2024-08-04 11:19:39.4440 
+Effective PI planning: Optimizing Agile delivery & embracing innovation
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 11:19:39.4891 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:39.5141 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:39.5603 
+Read more
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 11:19:39.6105 
+
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 11:19:39.6581 
+Financial technology
+https://blankfactor.com/category/financial-technology/ 
+2024-08-04 11:19:39.7002 
+6 payments data challenges PSPs face and how to solve them
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 11:19:39.7236 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:39.7424 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:39.7610 
+Read more
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 11:19:39.7803 
+
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 11:19:39.7972 
+Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 11:19:39.8151 
+Navigating the future of GenAI: A strategic roadmap for asset managers
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 11:19:39.8341 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:39.8523 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:39.8703 
+Read more
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 11:19:39.8885 
+
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 11:19:39.9060 
+Boosting patient scheduling by 6x with the power of AI
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 11:19:39.9244 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:39.9426 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:39.9605 
+Read more
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 11:19:39.9792 
+
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:39.9967 
+Company and culture
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 11:19:40.0345 
+Our impact by the numbers: How Blankfactor teams make a difference
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:40.0665 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:40.0982 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:40.1367 
+Read more
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 11:19:40.1805 
+
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 11:19:40.2177 
+Cloud technology
+https://blankfactor.com/category/cloud-technology/ 
+2024-08-04 11:19:40.2879 
+Revitalizing reporting for lifesaving 911 software solutions
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 11:19:40.3233 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:40.3602 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:40.4001 
+Read more
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 11:19:40.4606 
+
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 11:19:40.4969 
+Design
+https://blankfactor.com/category/design/ 
+2024-08-04 11:19:40.5259 
+Unlocking the value of UX design for a top five biotech innovator
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 11:19:40.5668 
+
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:40.6147 
+Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 11:19:40.6466 
+Read more
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 11:19:40.6824 
+
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 11:19:40.7431 
+
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 11:19:40.7946 
+
+https://twitter.com/_Blankfactor 
+2024-08-04 11:19:40.8315 
+
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 11:19:40.8829 
+
+mailto:sales@blankfactor.com 
+2024-08-04 11:19:40.9315 
+
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/ 
+2024-08-04 11:19:40.9776 
+Accelerating EMV Level 3 certification with end-to-end testing expertise 
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/ 
+2024-08-04 11:19:41.0533 
+
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/ 
+2024-08-04 11:19:41.0816 
+6 key payments industry trends shaping 2024
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/ 
+2024-08-04 11:19:41.1093 
+
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 11:19:41.1815 
+How firms can unleash enterprise AI transformation
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 11:19:41.2063 
+Let's get started
+https://blankfactor.com/contact/ 
+2024-08-04 11:19:41.2410 
+
+https://blankfactor.com/ 
+2024-08-04 11:19:41.3039 
+About
+https://blankfactor.com/about/ 
+2024-08-04 11:19:41.3401 
+Services
+https://blankfactor.com/services/ 
+2024-08-04 11:19:41.3818 
+Careers
+https://blankfactor.com/careers/ 
+2024-08-04 11:19:41.4240 
+Insights
+https://blankfactor.com/insights/ 
+2024-08-04 11:19:41.4560 
+Privacy Policy
+https://blankfactor.com/privacy/ 
+2024-08-04 11:19:41.4871 
+
+https://blankfactor.com/insights/blog/# 
+2024-08-04 11:19:41.5313 
+
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 11:19:41.5709 
+
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 11:19:41.5996 
+
+https://twitter.com/_Blankfactor 
+2024-08-04 11:19:41.6276 
+
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:19:48.5629 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-04 16:19:48.7653 By.Id: menu-item-4436 has been successfully localized 
+2024-08-04 16:19:50.5397 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-04 16:20:09.2987 
+https://blankfactor.com/ 
+2024-08-04 16:20:09.3486 
+https://blankfactor.com/about/ 
+2024-08-04 16:20:09.3948 
+https://blankfactor.com/services/ 
+2024-08-04 16:20:09.4700 
+https://blankfactor.com/services/data-digital-engineering/ 
+2024-08-04 16:20:09.5039 
+https://blankfactor.com/data-engineering-and-business-intelligence/#data_lakes 
+2024-08-04 16:20:09.5449 
+https://blankfactor.com/data-engineering-and-business-intelligence/#etl_elt_and_migrations 
+2024-08-04 16:20:09.5781 
+https://blankfactor.com/services/enterprise-ai/ 
+2024-08-04 16:20:09.6542 
+https://blankfactor.com/services/enterprise-ai/#financial_services 
+2024-08-04 16:20:09.9652 
+https://blankfactor.com/services/enterprise-ai/#life_sciences 
+2024-08-04 16:20:09.9889 
+https://blankfactor.com/insights/blog/# 
+2024-08-04 16:20:10.0205 
+https://blankfactor.com/services/front-end-development/ 
+2024-08-04 16:20:10.0551 
+https://blankfactor.com/services/back-end-development/ 
+2024-08-04 16:20:10.0970 
+https://blankfactor.com/services/quality-assurance/ 
+2024-08-04 16:20:10.1245 
+https://blankfactor.com/services/cloud-devops/ 
+2024-08-04 16:20:10.1540 
+https://blankfactor.com/services/mobile-app-development/ 
+2024-08-04 16:20:10.1883 
+https://blankfactor.com/industries/ 
+2024-08-04 16:20:10.2123 
+https://blankfactor.com/industries/banking-capital-markets/ 
+2024-08-04 16:20:10.2352 
+https://blankfactor.com/industries/payments/ 
+2024-08-04 16:20:10.2539 
+https://blankfactor.com/industries/insurance/ 
+2024-08-04 16:20:10.2751 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:20:10.2960 
+https://blankfactor.com/careers/ 
+2024-08-04 16:20:10.3188 
+https://blankfactor.com/insights/ 
+2024-08-04 16:20:10.3411 
+https://blankfactor.com/contact/ 
+2024-08-04 16:20:10.3666 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:20:10.3879 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:20:10.4088 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:20:10.4278 
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:20:10.4485 
+https://blankfactor.com/ 
+2024-08-04 16:20:10.5358 
+https://blankfactor.com/services/full-stack-product-development/ 
+2024-08-04 16:20:10.5541 
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:20:10.5718 
+https://blankfactor.com/insights/blog/10-years-accelerating-digital-innovation-in-financial-services/ 
+2024-08-04 16:20:10.5902 
+https://blankfactor.com/insights/blog/leadership-mindset-culture-fuel-digital-transformation/ 
+2024-08-04 16:20:10.6100 
+https://blankfactor.com/insights/blog/heres-how-ux-teams-and-design-thinking-can-power-your-next-digital-product/ 
+2024-08-04 16:20:10.6305 
+https://blankfactor.com/insights/blog/want-digital-transformation-optimize-your-cloud-strategy-and-go-cloud-native-in-2023/ 
+2024-08-04 16:20:10.6509 
+https://blankfactor.com/insights/blog/success-stories/ 
+2024-08-04 16:20:10.6707 
+https://blankfactor.com/insights/blog/consensus-algorithms/ 
+2024-08-04 16:20:10.6905 
+https://blankfactor.com/insights/blog/design-thinking/ 
+2024-08-04 16:20:10.7105 
+https://blankfactor.com/insights/blog/hiring-and-recruitment/ 
+2024-08-04 16:20:10.7291 
+https://blankfactor.com/insights/blog/embedded-financial-services/ 
+2024-08-04 16:20:10.7468 
+https://blankfactor.com/fis-emerald/ 
+2024-08-04 16:20:10.7653 
+https://blankfactor.com/contact/ 
+2024-08-04 16:20:10.7838 
+https://blankfactor.com/services/ 
+2024-08-04 16:20:10.8032 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:20:10.8363 
+https://blankfactor.com/ 
+2024-08-04 16:20:10.8625 Services
+https://blankfactor.com/services/ 
+2024-08-04 16:20:10.8835 
+https://blankfactor.com/services/data-digital-engineering/ 
+2024-08-04 16:20:10.9026 
+https://blankfactor.com/services/enterprise-ai/ 
+2024-08-04 16:20:10.9212 
+https://blankfactor.com/services/full-stack-product-development 
+2024-08-04 16:20:10.9389 
+https://blankfactor.com/services/ 
+2024-08-04 16:20:10.9598 Industries
+https://blankfactor.com/industries/ 
+2024-08-04 16:20:10.9803 
+https://blankfactor.com/industries/banking-capital-markets/ 
+2024-08-04 16:20:11.0016 
+https://blankfactor.com/industries/payments/ 
+2024-08-04 16:20:11.0220 
+https://blankfactor.com/industries/insurance/ 
+2024-08-04 16:20:11.0437 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:20:11.0649 
+https://blankfactor.com/contact/ 
+2024-08-04 16:20:11.0856 Insights
+https://blankfactor.com/insights/ 
+2024-08-04 16:20:11.1051 Careers
+https://blankfactor.com/careers/ 
+2024-08-04 16:20:11.1241 About
+https://blankfactor.com/about/ 
+2024-08-04 16:20:11.1443 Let's talk
+https://blankfactor.com/contact/ 
+2024-08-04 16:20:11.1644 
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:20:11.1835 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:11.2036 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:20:11.2241 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.2453 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:20:11.2645 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.2866 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:11.3088 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:20:11.3393 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:11.3673 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:20:11.3871 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:20:11.4059 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.4237 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:20:11.4445 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:20:11.4672 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.4891 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:11.5116 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:20:11.5334 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:11.5543 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:20:11.5731 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:20:11.5927 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:11.6126 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:20:11.6316 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:11.6524 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.6715 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.6899 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:11.7113 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:20:11.7310 Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:11.7506 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:20:11.7710 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.7898 Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:20:11.8089 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.8318 Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:11.8505 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:20:11.8704 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:11.8889 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:20:11.9074 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:20:11.9301 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:11.9487 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:20:11.9674 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:20:11.9866 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.0049 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:12.0285 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:20:12.0481 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:12.0678 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:20:12.0873 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:20:12.1058 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:12.1241 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:20:12.1520 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:12.1854 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.2072 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.2267 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:12.2483 
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:20:12.2683 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:12.2897 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:20:12.3213 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.3507 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:20:12.3712 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.3906 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:12.4099 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:20:12.4311 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:12.4504 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:20:12.4717 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:20:12.4918 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.5132 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:20:12.5330 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:20:12.5522 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.5713 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:12.5900 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:20:12.6089 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:12.6297 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:20:12.6512 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:20:12.6705 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:12.6897 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:20:12.7085 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:12.7302 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.7528 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.7720 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:12.7919 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:12.8133 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:20:12.8336 Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:12.8546 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:20:12.8744 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.8942 Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:20:12.9150 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:12.9331 Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:20:12.9535 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:12.9730 Data
+https://blankfactor.com/category/data/ 
+2024-08-04 16:20:12.9919 Key impacts of T+1: Navigating financial services transformation
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:13.0140 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:20:13.0339 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:20:13.0562 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.0756 Malay Patel
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:20:13.0947 Heather Jordan
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:20:13.1150 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.1347 Read more
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:20:13.1570 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:13.1760 Data
+https://blankfactor.com/category/data/ 
+2024-08-04 16:20:13.1948 Enabling data and digital transformation for a wealth management leader
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:13.2183 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:20:13.2398 Denise D'Angelo
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:20:13.2599 Read more
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:20:13.2832 
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:20:13.3076 Software development
+https://blankfactor.com/category/software-development/ 
+2024-08-04 16:20:13.3334 Effective PI planning: Optimizing Agile delivery & embracing innovation
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:20:13.3548 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.3759 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.3956 Read more
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:20:13.4154 
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:20:13.4370 Financial technology
+https://blankfactor.com/category/financial-technology/ 
+2024-08-04 16:20:13.4568 6 payments data challenges PSPs face and how to solve them
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:20:13.4756 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.4950 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.5138 Read more
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:20:13.5338 
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:20:13.5524 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:20:13.5715 Navigating the future of GenAI: A strategic roadmap for asset managers
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:20:13.5913 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.6100 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.6312 Read more
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:20:13.6519 
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:20:13.6707 Boosting patient scheduling by 6x with the power of AI
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:20:13.6901 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.7087 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.7268 Read more
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:20:13.7478 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:13.7664 Company and culture
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:20:13.7855 Our impact by the numbers: How Blankfactor teams make a difference
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:13.8049 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.8244 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.8424 Read more
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:20:13.8621 
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:20:13.8826 Cloud technology
+https://blankfactor.com/category/cloud-technology/ 
+2024-08-04 16:20:13.9024 Revitalizing reporting for lifesaving 911 software solutions
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:20:13.9213 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.9413 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:13.9601 Read more
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:20:13.9788 
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:20:13.9979 Design
+https://blankfactor.com/category/design/ 
+2024-08-04 16:20:14.0170 Unlocking the value of UX design for a top five biotech innovator
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:20:14.0360 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:14.0557 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:20:14.0775 Read more
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:20:14.1099 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:20:14.1314 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:20:14.1512 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:20:14.1719 
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:20:14.1903 
+mailto:sales@blankfactor.com 
+2024-08-04 16:20:14.2092 
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/ 
+2024-08-04 16:20:14.2279 Accelerating EMV Level 3 certification with end-to-end testing expertise 
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/ 
+2024-08-04 16:20:14.2485 
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/ 
+2024-08-04 16:20:14.2687 6 key payments industry trends shaping 2024
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/ 
+2024-08-04 16:20:14.2879 
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:20:14.3110 How firms can unleash enterprise AI transformation
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:20:14.3367 Let's get started
+https://blankfactor.com/contact/ 
+2024-08-04 16:20:14.3629 
+https://blankfactor.com/ 
+2024-08-04 16:20:14.3838 About
+https://blankfactor.com/about/ 
+2024-08-04 16:20:14.4028 Services
+https://blankfactor.com/services/ 
+2024-08-04 16:20:14.4225 Careers
+https://blankfactor.com/careers/ 
+2024-08-04 16:20:14.4410 Insights
+https://blankfactor.com/insights/ 
+2024-08-04 16:20:14.4604 Privacy Policy
+https://blankfactor.com/privacy/ 
+2024-08-04 16:20:14.4791 
+https://blankfactor.com/insights/blog/# 
+2024-08-04 16:20:14.5018 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:20:14.5223 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:20:14.5427 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:20:14.5611 
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:21:43.1256 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-04 16:21:43.3433 By.Id: menu-item-4436 has been successfully localized 
+2024-08-04 16:21:45.0623 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-04 16:22:03.8462 
+https://blankfactor.com/ 
+2024-08-04 16:22:03.8943 
+https://blankfactor.com/about/ 
+2024-08-04 16:22:03.9341 
+https://blankfactor.com/services/ 
+2024-08-04 16:22:03.9707 
+https://blankfactor.com/services/data-digital-engineering/ 
+2024-08-04 16:22:04.0281 
+https://blankfactor.com/data-engineering-and-business-intelligence/#data_lakes 
+2024-08-04 16:22:04.0730 
+https://blankfactor.com/data-engineering-and-business-intelligence/#etl_elt_and_migrations 
+2024-08-04 16:22:04.1111 
+https://blankfactor.com/services/enterprise-ai/ 
+2024-08-04 16:22:04.1409 
+https://blankfactor.com/services/enterprise-ai/#financial_services 
+2024-08-04 16:22:04.1711 
+https://blankfactor.com/services/enterprise-ai/#life_sciences 
+2024-08-04 16:22:04.2064 
+https://blankfactor.com/insights/blog/# 
+2024-08-04 16:22:04.5757 
+https://blankfactor.com/services/front-end-development/ 
+2024-08-04 16:22:04.6028 
+https://blankfactor.com/services/back-end-development/ 
+2024-08-04 16:22:04.6253 
+https://blankfactor.com/services/quality-assurance/ 
+2024-08-04 16:22:04.6499 
+https://blankfactor.com/services/cloud-devops/ 
+2024-08-04 16:22:04.6875 
+https://blankfactor.com/services/mobile-app-development/ 
+2024-08-04 16:22:04.7183 
+https://blankfactor.com/industries/ 
+2024-08-04 16:22:04.7516 
+https://blankfactor.com/industries/banking-capital-markets/ 
+2024-08-04 16:22:04.7768 
+https://blankfactor.com/industries/payments/ 
+2024-08-04 16:22:04.8032 
+https://blankfactor.com/industries/insurance/ 
+2024-08-04 16:22:04.8252 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:22:04.8473 
+https://blankfactor.com/careers/ 
+2024-08-04 16:22:04.8693 
+https://blankfactor.com/insights/ 
+2024-08-04 16:22:04.8882 
+https://blankfactor.com/contact/ 
+2024-08-04 16:22:04.9127 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:22:04.9355 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:22:04.9556 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:22:04.9897 
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:22:05.0266 
+https://blankfactor.com/ 
+2024-08-04 16:22:05.0619 
+https://blankfactor.com/services/full-stack-product-development/ 
+2024-08-04 16:22:05.0804 
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:22:05.0998 
+https://blankfactor.com/insights/blog/10-years-accelerating-digital-innovation-in-financial-services/ 
+2024-08-04 16:22:05.1182 
+https://blankfactor.com/insights/blog/leadership-mindset-culture-fuel-digital-transformation/ 
+2024-08-04 16:22:05.1369 
+https://blankfactor.com/insights/blog/heres-how-ux-teams-and-design-thinking-can-power-your-next-digital-product/ 
+2024-08-04 16:22:05.1547 
+https://blankfactor.com/insights/blog/want-digital-transformation-optimize-your-cloud-strategy-and-go-cloud-native-in-2023/ 
+2024-08-04 16:22:05.1744 
+https://blankfactor.com/insights/blog/success-stories/ 
+2024-08-04 16:22:05.1951 
+https://blankfactor.com/insights/blog/consensus-algorithms/ 
+2024-08-04 16:22:05.2177 
+https://blankfactor.com/insights/blog/design-thinking/ 
+2024-08-04 16:22:05.2373 
+https://blankfactor.com/insights/blog/hiring-and-recruitment/ 
+2024-08-04 16:22:05.2567 
+https://blankfactor.com/insights/blog/embedded-financial-services/ 
+2024-08-04 16:22:05.2755 
+https://blankfactor.com/fis-emerald/ 
+2024-08-04 16:22:05.2932 
+https://blankfactor.com/contact/ 
+2024-08-04 16:22:05.3104 
+https://blankfactor.com/services/ 
+2024-08-04 16:22:05.3375 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:22:05.3699 
+https://blankfactor.com/ 
+2024-08-04 16:22:05.3933 Services
+https://blankfactor.com/services/ 
+2024-08-04 16:22:05.4122 
+https://blankfactor.com/services/data-digital-engineering/ 
+2024-08-04 16:22:05.4330 
+https://blankfactor.com/services/enterprise-ai/ 
+2024-08-04 16:22:05.4546 
+https://blankfactor.com/services/full-stack-product-development 
+2024-08-04 16:22:05.4731 
+https://blankfactor.com/services/ 
+2024-08-04 16:22:05.4936 Industries
+https://blankfactor.com/industries/ 
+2024-08-04 16:22:05.5153 
+https://blankfactor.com/industries/banking-capital-markets/ 
+2024-08-04 16:22:05.5401 
+https://blankfactor.com/industries/payments/ 
+2024-08-04 16:22:05.5617 
+https://blankfactor.com/industries/insurance/ 
+2024-08-04 16:22:05.5825 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:22:05.6054 
+https://blankfactor.com/contact/ 
+2024-08-04 16:22:05.6254 Insights
+https://blankfactor.com/insights/ 
+2024-08-04 16:22:05.6443 Careers
+https://blankfactor.com/careers/ 
+2024-08-04 16:22:05.6636 About
+https://blankfactor.com/about/ 
+2024-08-04 16:22:05.6834 Let's talk
+https://blankfactor.com/contact/ 
+2024-08-04 16:22:05.7035 
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:22:05.7221 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:05.7421 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:22:05.7620 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:05.7805 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:22:05.8010 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:05.8231 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:05.8432 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:22:05.8646 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:05.8951 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:22:05.9148 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:22:05.9387 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:05.9576 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:22:05.9785 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:22:05.9999 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.0226 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:06.0477 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:22:06.0710 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:06.0913 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:22:06.1109 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:22:06.1310 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:06.1516 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:22:06.1720 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:06.1916 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.2119 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.2300 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:06.2502 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:22:06.2698 Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:06.2908 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:22:06.3107 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.3388 Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:22:06.3597 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.3790 Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:06.3975 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:22:06.4168 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:06.4373 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:22:06.4575 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:22:06.4771 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.4951 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:22:06.5135 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:22:06.5317 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.5501 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:06.5740 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:22:06.5928 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:06.6151 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:22:06.6424 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:22:06.6626 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:06.6842 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:22:06.7055 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:06.7261 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.7458 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.7646 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:06.7891 
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:22:06.8090 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:06.8295 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:22:06.8487 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.8705 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:22:06.8902 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:06.9112 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:06.9324 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:22:06.9536 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:06.9758 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:22:06.9966 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:22:07.0157 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.0352 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:22:07.0556 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:22:07.0741 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.0945 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:07.1136 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:22:07.1321 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:07.1542 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:22:07.1750 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:22:07.1946 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:07.2135 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:22:07.2327 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:07.2552 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.2794 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.2988 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:07.3184 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:07.3464 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:22:07.3676 Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:07.3900 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:22:07.4117 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.4309 Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:22:07.4496 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.4696 Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:22:07.4906 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:07.5095 Data
+https://blankfactor.com/category/data/ 
+2024-08-04 16:22:07.5297 Key impacts of T+1: Navigating financial services transformation
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:07.5499 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:22:07.5732 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:22:07.5945 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.6145 Malay Patel
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:22:07.6392 Heather Jordan
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:22:07.6601 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.6795 Read more
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:22:07.6991 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:07.7173 Data
+https://blankfactor.com/category/data/ 
+2024-08-04 16:22:07.7369 Enabling data and digital transformation for a wealth management leader
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:07.7570 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:22:07.7758 Denise D'Angelo
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:22:07.7950 Read more
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:22:07.8151 
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:22:07.8338 Software development
+https://blankfactor.com/category/software-development/ 
+2024-08-04 16:22:07.8532 Effective PI planning: Optimizing Agile delivery & embracing innovation
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:22:07.8745 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.8932 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:07.9136 Read more
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:22:07.9354 
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:22:07.9590 Financial technology
+https://blankfactor.com/category/financial-technology/ 
+2024-08-04 16:22:07.9781 6 payments data challenges PSPs face and how to solve them
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:22:07.9975 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.0160 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.0350 Read more
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:22:08.0551 
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:22:08.0738 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:22:08.0945 Navigating the future of GenAI: A strategic roadmap for asset managers
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:22:08.1257 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.1597 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.1856 Read more
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:22:08.2091 
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:22:08.2310 Boosting patient scheduling by 6x with the power of AI
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:22:08.2523 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.2754 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.2962 Read more
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:22:08.3235 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:08.3503 Company and culture
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:22:08.3737 Our impact by the numbers: How Blankfactor teams make a difference
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:08.3986 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.4194 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.4419 Read more
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:22:08.4658 
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:22:08.4866 Cloud technology
+https://blankfactor.com/category/cloud-technology/ 
+2024-08-04 16:22:08.5067 Revitalizing reporting for lifesaving 911 software solutions
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:22:08.5267 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.5449 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.5642 Read more
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:22:08.5826 
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:22:08.6015 Design
+https://blankfactor.com/category/design/ 
+2024-08-04 16:22:08.6215 Unlocking the value of UX design for a top five biotech innovator
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:22:08.6412 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.6591 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:22:08.6834 Read more
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:22:08.7037 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:22:08.7255 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:22:08.7473 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:22:08.7667 
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:22:08.7848 
+mailto:sales@blankfactor.com 
+2024-08-04 16:22:08.8076 
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/ 
+2024-08-04 16:22:08.8268 Accelerating EMV Level 3 certification with end-to-end testing expertise 
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/ 
+2024-08-04 16:22:08.8456 
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/ 
+2024-08-04 16:22:08.8651 6 key payments industry trends shaping 2024
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/ 
+2024-08-04 16:22:08.8846 
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:22:08.9039 How firms can unleash enterprise AI transformation
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:22:08.9279 Let's get started
+https://blankfactor.com/contact/ 
+2024-08-04 16:22:08.9511 
+https://blankfactor.com/ 
+2024-08-04 16:22:08.9699 About
+https://blankfactor.com/about/ 
+2024-08-04 16:22:08.9934 Services
+https://blankfactor.com/services/ 
+2024-08-04 16:22:09.0134 Careers
+https://blankfactor.com/careers/ 
+2024-08-04 16:22:09.0329 Insights
+https://blankfactor.com/insights/ 
+2024-08-04 16:22:09.0525 Privacy Policy
+https://blankfactor.com/privacy/ 
+2024-08-04 16:22:09.0733 
+https://blankfactor.com/insights/blog/# 
+2024-08-04 16:22:09.0931 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:22:09.1137 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:22:09.1334 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:22:09.1525 
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:25:31.2144 By.Id: hs-eu-confirmation-button has been successfully localized 
+2024-08-04 16:25:31.4965 By.Id: menu-item-4436 has been successfully localized 
+2024-08-04 16:25:33.3056 By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized 
+2024-08-04 16:25:51.7043 
+https://blankfactor.com/ 
+2024-08-04 16:25:51.7339 
+https://blankfactor.com/about/ 
+2024-08-04 16:25:51.7664 
+https://blankfactor.com/services/ 
+2024-08-04 16:25:51.8546 
+https://blankfactor.com/services/data-digital-engineering/ 
+2024-08-04 16:25:52.2491 
+https://blankfactor.com/data-engineering-and-business-intelligence/#data_lakes 
+2024-08-04 16:25:52.2740 
+https://blankfactor.com/data-engineering-and-business-intelligence/#etl_elt_and_migrations 
+2024-08-04 16:25:52.2999 
+https://blankfactor.com/services/enterprise-ai/ 
+2024-08-04 16:25:52.3399 
+https://blankfactor.com/services/enterprise-ai/#financial_services 
+2024-08-04 16:25:52.3877 
+https://blankfactor.com/services/enterprise-ai/#life_sciences 
+2024-08-04 16:25:52.4184 
+https://blankfactor.com/insights/blog/# 
+2024-08-04 16:25:52.4466 
+https://blankfactor.com/services/front-end-development/ 
+2024-08-04 16:25:52.4735 
+https://blankfactor.com/services/back-end-development/ 
+2024-08-04 16:25:52.5027 
+https://blankfactor.com/services/quality-assurance/ 
+2024-08-04 16:25:52.5246 
+https://blankfactor.com/services/cloud-devops/ 
+2024-08-04 16:25:52.5490 
+https://blankfactor.com/services/mobile-app-development/ 
+2024-08-04 16:25:52.5721 
+https://blankfactor.com/industries/ 
+2024-08-04 16:25:52.5910 
+https://blankfactor.com/industries/banking-capital-markets/ 
+2024-08-04 16:25:52.6109 
+https://blankfactor.com/industries/payments/ 
+2024-08-04 16:25:52.6320 
+https://blankfactor.com/industries/insurance/ 
+2024-08-04 16:25:52.6581 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:25:52.6799 
+https://blankfactor.com/careers/ 
+2024-08-04 16:25:52.7003 
+https://blankfactor.com/insights/ 
+2024-08-04 16:25:52.7190 
+https://blankfactor.com/contact/ 
+2024-08-04 16:25:52.7949 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:25:52.8160 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:25:52.8372 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:25:52.8576 
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:25:52.8793 
+https://blankfactor.com/ 
+2024-08-04 16:25:52.8991 
+https://blankfactor.com/services/full-stack-product-development/ 
+2024-08-04 16:25:52.9182 
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:25:52.9370 
+https://blankfactor.com/insights/blog/10-years-accelerating-digital-innovation-in-financial-services/ 
+2024-08-04 16:25:52.9562 
+https://blankfactor.com/insights/blog/leadership-mindset-culture-fuel-digital-transformation/ 
+2024-08-04 16:25:52.9743 
+https://blankfactor.com/insights/blog/heres-how-ux-teams-and-design-thinking-can-power-your-next-digital-product/ 
+2024-08-04 16:25:52.9920 
+https://blankfactor.com/insights/blog/want-digital-transformation-optimize-your-cloud-strategy-and-go-cloud-native-in-2023/ 
+2024-08-04 16:25:53.0104 
+https://blankfactor.com/insights/blog/success-stories/ 
+2024-08-04 16:25:53.0295 
+https://blankfactor.com/insights/blog/consensus-algorithms/ 
+2024-08-04 16:25:53.0481 
+https://blankfactor.com/insights/blog/design-thinking/ 
+2024-08-04 16:25:53.0688 
+https://blankfactor.com/insights/blog/hiring-and-recruitment/ 
+2024-08-04 16:25:53.0886 
+https://blankfactor.com/insights/blog/embedded-financial-services/ 
+2024-08-04 16:25:53.1080 
+https://blankfactor.com/fis-emerald/ 
+2024-08-04 16:25:53.1275 
+https://blankfactor.com/contact/ 
+2024-08-04 16:25:53.1474 
+https://blankfactor.com/services/ 
+2024-08-04 16:25:53.1669 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:25:53.1914 
+https://blankfactor.com/ 
+2024-08-04 16:25:53.2148 Services
+https://blankfactor.com/services/ 
+2024-08-04 16:25:53.2373 
+https://blankfactor.com/services/data-digital-engineering/ 
+2024-08-04 16:25:53.2609 
+https://blankfactor.com/services/enterprise-ai/ 
+2024-08-04 16:25:53.2868 
+https://blankfactor.com/services/full-stack-product-development 
+2024-08-04 16:25:53.3103 
+https://blankfactor.com/services/ 
+2024-08-04 16:25:53.3506 Industries
+https://blankfactor.com/industries/ 
+2024-08-04 16:25:53.3722 
+https://blankfactor.com/industries/banking-capital-markets/ 
+2024-08-04 16:25:53.3919 
+https://blankfactor.com/industries/payments/ 
+2024-08-04 16:25:53.4112 
+https://blankfactor.com/industries/insurance/ 
+2024-08-04 16:25:53.4351 
+https://blankfactor.com/industries/retirement-and-wealth/ 
+2024-08-04 16:25:53.4560 
+https://blankfactor.com/contact/ 
+2024-08-04 16:25:53.4768 Insights
+https://blankfactor.com/insights/ 
+2024-08-04 16:25:53.5015 Careers
+https://blankfactor.com/careers/ 
+2024-08-04 16:25:53.5215 About
+https://blankfactor.com/about/ 
+2024-08-04 16:25:53.5407 Let's talk
+https://blankfactor.com/contact/ 
+2024-08-04 16:25:53.5594 
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:25:53.5782 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:53.5998 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:25:53.6203 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:53.6416 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:25:53.6604 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:53.6798 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:53.7003 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:25:53.7214 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:53.7428 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:25:53.7673 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:25:53.7938 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:53.8133 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:25:53.8343 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:25:53.8540 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:53.8749 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:53.8949 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:25:53.9173 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:53.9381 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:25:53.9583 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:25:53.9802 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:54.0020 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:25:54.0210 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:54.0411 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.0604 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.0834 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:54.1034 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:25:54.1226 Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:54.1420 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:25:54.1613 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.1817 Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:25:54.2025 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.2259 Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:54.2460 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:25:54.2662 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:54.3023 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:25:54.3369 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:25:54.3600 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.3805 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:25:54.4019 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:25:54.4219 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.4426 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:54.4613 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:25:54.4856 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:54.5051 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:25:54.5242 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:25:54.5428 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:54.5612 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:25:54.5789 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:54.5996 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.6205 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.6397 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:54.6579 
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:25:54.6769 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:54.6966 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:25:54.7188 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.7378 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:25:54.7560 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.7758 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:54.7941 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:25:54.8128 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:54.8356 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:25:54.8557 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:25:54.8749 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.8943 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:25:54.9122 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:25:54.9313 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:54.9517 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:54.9701 
+https://blankfactor.com/category/data/ 
+2024-08-04 16:25:54.9892 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:55.0079 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:25:55.0296 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:25:55.0507 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:55.0696 
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:25:55.0901 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:55.1089 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.1273 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.1458 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:55.1676 
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:55.1864 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:25:55.2068 Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:55.2289 
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:25:55.2486 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.2698 Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/ 
+2024-08-04 16:25:55.2924 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.3113 Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/ 
+2024-08-04 16:25:55.3394 
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:55.3598 Data
+https://blankfactor.com/category/data/ 
+2024-08-04 16:25:55.3790 Key impacts of T+1: Navigating financial services transformation
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:55.3999 
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:25:55.4216 
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:25:55.4412 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.4608 Malay Patel
+https://blankfactor.com/author/malay-patel/ 
+2024-08-04 16:25:55.4792 Heather Jordan
+https://blankfactor.com/author/heatherjordan/ 
+2024-08-04 16:25:55.4976 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.5168 Read more
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/ 
+2024-08-04 16:25:55.5378 
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:55.5562 Data
+https://blankfactor.com/category/data/ 
+2024-08-04 16:25:55.5756 Enabling data and digital transformation for a wealth management leader
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:55.5954 
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:25:55.6139 Denise D'Angelo
+https://blankfactor.com/author/denise-dangelo/ 
+2024-08-04 16:25:55.6346 Read more
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/ 
+2024-08-04 16:25:55.6554 
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:25:55.6741 Software development
+https://blankfactor.com/category/software-development/ 
+2024-08-04 16:25:55.6972 Effective PI planning: Optimizing Agile delivery & embracing innovation
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:25:55.7181 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.7382 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.7568 Read more
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/ 
+2024-08-04 16:25:55.7772 
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:25:55.7957 Financial technology
+https://blankfactor.com/category/financial-technology/ 
+2024-08-04 16:25:55.8142 6 payments data challenges PSPs face and how to solve them
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:25:55.8347 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.8538 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.8736 Read more
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/ 
+2024-08-04 16:25:55.8925 
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:25:55.9106 Enterprise AI
+https://blankfactor.com/category/enterprise-ai/ 
+2024-08-04 16:25:55.9287 Navigating the future of GenAI: A strategic roadmap for asset managers
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:25:55.9472 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.9665 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:55.9865 Read more
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/ 
+2024-08-04 16:25:56.0056 
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:25:56.0250 Boosting patient scheduling by 6x with the power of AI
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:25:56.0453 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:56.0638 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:56.0832 Read more
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/ 
+2024-08-04 16:25:56.1038 
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:56.1227 Company and culture
+https://blankfactor.com/category/company-and-culture/ 
+2024-08-04 16:25:56.1418 Our impact by the numbers: How Blankfactor teams make a difference
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:56.1615 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:56.1794 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:56.1975 Read more
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/ 
+2024-08-04 16:25:56.2193 
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:25:56.2404 Cloud technology
+https://blankfactor.com/category/cloud-technology/ 
+2024-08-04 16:25:56.2597 Revitalizing reporting for lifesaving 911 software solutions
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:25:56.2793 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:56.2977 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:56.3162 Read more
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/ 
+2024-08-04 16:25:56.3460 
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:25:56.3659 Design
+https://blankfactor.com/category/design/ 
+2024-08-04 16:25:56.3844 Unlocking the value of UX design for a top five biotech innovator
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:25:56.4041 
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:56.4236 Cherri Buijk
+https://blankfactor.com/author/cherribuijk/ 
+2024-08-04 16:25:56.4420 Read more
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/ 
+2024-08-04 16:25:56.4619 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:25:56.4825 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:25:56.5037 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:25:56.5254 
+https://www.instagram.com/_blankfactor/ 
+2024-08-04 16:25:56.5429 
+mailto:sales@blankfactor.com 
+2024-08-04 16:25:56.5619 
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/ 
+2024-08-04 16:25:56.5798 Accelerating EMV Level 3 certification with end-to-end testing expertise 
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/ 
+2024-08-04 16:25:56.5982 
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/ 
+2024-08-04 16:25:56.6165 6 key payments industry trends shaping 2024
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/ 
+2024-08-04 16:25:56.6384 
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:25:56.6571 How firms can unleash enterprise AI transformation
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/ 
+2024-08-04 16:25:56.6763 Let's get started
+https://blankfactor.com/contact/ 
+2024-08-04 16:25:56.7007 
+https://blankfactor.com/ 
+2024-08-04 16:25:56.7216 About
+https://blankfactor.com/about/ 
+2024-08-04 16:25:56.7401 Services
+https://blankfactor.com/services/ 
+2024-08-04 16:25:56.7589 Careers
+https://blankfactor.com/careers/ 
+2024-08-04 16:25:56.7796 Insights
+https://blankfactor.com/insights/ 
+2024-08-04 16:25:56.7980 Privacy Policy
+https://blankfactor.com/privacy/ 
+2024-08-04 16:25:56.8157 
+https://blankfactor.com/insights/blog/# 
+2024-08-04 16:25:56.8358 
+https://www.facebook.com/Blankfactorsoftware 
+2024-08-04 16:25:56.8574 
+https://www.linkedin.com/company/Blankfactor/ 
+2024-08-04 16:25:56.8771 
+https://twitter.com/_Blankfactor 
+2024-08-04 16:25:56.8966 
+https://www.instagram.com/_blankfactor/ 

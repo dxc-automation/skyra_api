@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\PROJECTS\\skyra_api\\TestProject1\\skyra.csproj": {}
+  },
+  "projects": {
+    "H:\\PROJECTS\\skyra_api\\TestProject1\\skyra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\PROJECTS\\skyra_api\\TestProject1\\skyra.csproj",
+        "projectName": "skyra",
+        "projectPath": "H:\\PROJECTS\\skyra_api\\TestProject1\\skyra.csproj",
+        "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
+        "outputPath": "H:\\PROJECTS\\skyra_api\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "KlovReporter-custom-package": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.18.1, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.18.1, )"
+            },
+            "NUnit.Runners": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "NUnitTestAdapter": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.21.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.21.0, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "mailslurp": {
+              "target": "Package",
+              "version": "[15.18.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

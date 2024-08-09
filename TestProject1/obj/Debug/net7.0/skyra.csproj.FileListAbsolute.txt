@@ -1,0 +1,465 @@
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.csproj.AssemblyReference.cache
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.GeneratedMSBuildEditorConfig.editorconfig
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.AssemblyInfoInputs.cache
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.AssemblyInfo.cs
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.csproj.CoreCompileInputs.cache
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\testhost.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NUnit.VisualStudio.TestAdapter.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Mono.Cecil.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Mono.Cecil.Mdb.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Mono.Cecil.Pdb.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Mono.Cecil.Rocks.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.core.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.core.interfaces.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.util.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\testhost.exe
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\chromedriver.exe
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\geckodriver.exe
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\msedgedriver.exe
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\Winium.Desktop.Driver.exe
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\logo.png
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.engine.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.engine.api.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.engine.core.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\testcentric.engine.metadata.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\chromedriver
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NLog.config
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\skyra.deps.json
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\skyra.runtimeconfig.json
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\skyra.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\skyra.pdb
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\AngleSharp.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\DnsClient.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\SeleniumExtras.PageObjects.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\SeleniumExtras.WaitHelpers.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ExtentReports.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\JsonSubTypes.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\KlovReporter.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\mailslurp.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\MongoDB.Bson.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\MongoDB.Driver.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\MongoDB.LibMongocrypt.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NLog.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NuGet.Frameworks.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.framework.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.framework.legacy.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Polly.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\RazorEngine.NetCore.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\RestSharp.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\WebDriver.Support.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\WebDriver.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\SharpCompress.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Reactive.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Text.Json.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\WebDriverManager.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\native\libzstd.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\native\snappy32.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\native\snappy64.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.csproj.CopyComplete
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\refint\skyra.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.pdb
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.genruntimeconfig.cache
+H:\[$] PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\ref\skyra.dll
+H:\[$] PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\TestData.json
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\testhost.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NUnit.VisualStudio.TestAdapter.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Mono.Cecil.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Mono.Cecil.Mdb.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Mono.Cecil.Pdb.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Mono.Cecil.Rocks.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.core.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.core.interfaces.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.util.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\testhost.exe
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\chromedriver.exe
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\geckodriver.exe
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\msedgedriver.exe
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\Winium.Desktop.Driver.exe
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\logo.png
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.engine.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.engine.api.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.engine.core.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\testcentric.engine.metadata.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\Drivers\chromedriver
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NLog.config
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Resources\TestData.json
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\skyra.deps.json
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\skyra.runtimeconfig.json
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\skyra.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\skyra.pdb
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\AngleSharp.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\DnsClient.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\SeleniumExtras.PageObjects.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\SeleniumExtras.WaitHelpers.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ExtentReports.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\JsonSubTypes.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\KlovReporter.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\mailslurp.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\MongoDB.Bson.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\MongoDB.Driver.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\MongoDB.LibMongocrypt.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\NLog.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.framework.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\nunit.framework.legacy.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Polly.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\RazorEngine.NetCore.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\RestSharp.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\WebDriver.Support.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\WebDriver.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\SharpCompress.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Reactive.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Text.Json.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\WebDriverManager.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\native\libzstd.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\native\snappy32.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\native\snappy64.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.csproj.AssemblyReference.cache
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.AssemblyInfoInputs.cache
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.AssemblyInfo.cs
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.csproj.CoreCompileInputs.cache
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.csproj.CopyComplete
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.dll
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\refint\skyra.dll
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.pdb
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\skyra.genruntimeconfig.cache
+H:\PROJECTS\skyra_api\TestProject1\obj\Debug\net7.0\ref\skyra.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.Testing.Extensions.Telemetry.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.Testing.Platform.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\Microsoft.Testing.Platform.MSBuild.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+H:\PROJECTS\skyra_api\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll

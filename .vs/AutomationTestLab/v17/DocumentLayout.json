@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\skayra_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testcases\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testcases\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\drivers\\browserdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\drivers\\browserdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\demo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\demo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\config\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\config\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testscripts\\api\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testscripts\\api\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testscripts\\api\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testscripts\\api\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testscripts\\api\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testscripts\\api\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\data\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\data\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\data\\readdata..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\data\\readdata..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\resources\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\resources\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testscripts\\web\\pageobjects\\articlepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testscripts\\web\\pageobjects\\articlepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testscripts\\web\\helpers\\actionselements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testscripts\\web\\helpers\\actionselements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testscripts\\web\\pageobjects\\insightspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testscripts\\web\\pageobjects\\insightspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrowserDriverManager.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Drivers\\BrowserDriverManager.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Drivers\\BrowserDriverManager.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\Drivers\\BrowserDriverManager.cs",
+              "RelativeToolTip": "TestProject1\\Drivers\\BrowserDriverManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:49:17.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Utility\\Utils.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Utility\\Utils.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\Utility\\Utils.cs",
+              "RelativeToolTip": "TestProject1\\Utility\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:48:59.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\demo.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\demo.csproj",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\demo.csproj",
+              "RelativeToolTip": "TestProject1\\demo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T13:46:26.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Config\\TestBase.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Config\\TestBase.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\Config\\TestBase.cs",
+              "RelativeToolTip": "TestProject1\\Config\\TestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:20:57.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\Posts.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestScripts\\API\\Posts.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\Posts.cs",
+              "RelativeToolTip": "TestProject1\\TestScripts\\API\\Posts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:15:54.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TEMPLATE.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\TEMPLATE.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestScripts\\API\\TEMPLATE.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\TEMPLATE.cs",
+              "RelativeToolTip": "TestProject1\\TestScripts\\API\\TEMPLATE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:24:31.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\Users.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestScripts\\API\\Users.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\Users.cs",
+              "RelativeToolTip": "TestProject1\\TestScripts\\API\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:18:49.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Data\\Constants.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Data\\Constants.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\Data\\Constants.cs",
+              "RelativeToolTip": "TestProject1\\Data\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:30:39.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadData..cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Data\\ReadData..cs",
+              "RelativeDocumentMoniker": "TestProject1\\Data\\ReadData..cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\Data\\ReadData..cs",
+              "RelativeToolTip": "TestProject1\\Data\\ReadData..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:30:34.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestData.json",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Resources\\TestData.json",
+              "RelativeDocumentMoniker": "TestProject1\\Resources\\TestData.json",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\Resources\\TestData.json",
+              "RelativeToolTip": "TestProject1\\Resources\\TestData.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T17:29:43.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticlePage.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\Web\\PageObjects\\ArticlePage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestScripts\\Web\\PageObjects\\ArticlePage.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\TestScripts\\Web\\PageObjects\\ArticlePage.cs",
+              "RelativeToolTip": "TestProject1\\TestScripts\\Web\\PageObjects\\ArticlePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:28:45.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NLog.config",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\NLog.config",
+              "RelativeDocumentMoniker": "TestProject1\\NLog.config",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\NLog.config",
+              "RelativeToolTip": "TestProject1\\NLog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-04T08:16:28.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestCases\\Test.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestCases\\Test.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\TestCases\\Test.cs",
+              "RelativeToolTip": "TestProject1\\TestCases\\Test.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:28:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActionsElements.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\Web\\Helpers\\ActionsElements.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestScripts\\Web\\Helpers\\ActionsElements.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\TestScripts\\Web\\Helpers\\ActionsElements.cs",
+              "RelativeToolTip": "TestProject1\\TestScripts\\Web\\Helpers\\ActionsElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:32:10.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InsightsPage.cs",
+              "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\Web\\PageObjects\\InsightsPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestScripts\\Web\\PageObjects\\InsightsPage.cs",
+              "ToolTip": "H:\\skayra_api\\TestProject1\\TestScripts\\Web\\PageObjects\\InsightsPage.cs",
+              "RelativeToolTip": "TestProject1\\TestScripts\\Web\\PageObjects\\InsightsPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:28:46.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
