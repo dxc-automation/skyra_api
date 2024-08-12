@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "H:\\skayra_api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\resources\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\resources\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\data\\readdata..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\data\\readdata..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testcases\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testcases\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\data\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\data\\readdata..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\data\\readdata..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\resources\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\resources\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|h:\\skayra_api\\testproject1\\testscripts\\web\\pageobjects\\articlepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A738A4-67E0-4E0D-8A6F-C53613961C7B}|TestProject1\\demo.csproj|solutionrelative:testproject1\\testscripts\\web\\pageobjects\\articlepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BrowserDriverManager.cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Drivers\\BrowserDriverManager.cs",
               "RelativeDocumentMoniker": "TestProject1\\Drivers\\BrowserDriverManager.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Utils.cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Utility\\Utils.cs",
               "RelativeDocumentMoniker": "TestProject1\\Utility\\Utils.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "demo",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\demo.csproj",
               "RelativeDocumentMoniker": "TestProject1\\demo.csproj",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TestBase.cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Config\\TestBase.cs",
               "RelativeDocumentMoniker": "TestProject1\\Config\\TestBase.cs",
@@ -129,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Posts.cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\Posts.cs",
               "RelativeDocumentMoniker": "TestProject1\\TestScripts\\API\\Posts.cs",
@@ -141,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TEMPLATE.cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\TEMPLATE.cs",
               "RelativeDocumentMoniker": "TestProject1\\TestScripts\\API\\TEMPLATE.cs",
@@ -153,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Users.cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestScripts\\API\\Users.cs",
               "RelativeDocumentMoniker": "TestProject1\\TestScripts\\API\\Users.cs",
@@ -165,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Constants.cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Data\\Constants.cs",
               "RelativeDocumentMoniker": "TestProject1\\Data\\Constants.cs",
@@ -177,19 +177,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "ReadData..cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Data\\ReadData..cs",
               "RelativeDocumentMoniker": "TestProject1\\Data\\ReadData..cs",
               "ToolTip": "H:\\skayra_api\\TestProject1\\Data\\ReadData..cs",
               "RelativeToolTip": "TestProject1\\Data\\ReadData..cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T17:30:34.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "TestData.json",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\Resources\\TestData.json",
               "RelativeDocumentMoniker": "TestProject1\\Resources\\TestData.json",
@@ -197,7 +197,8 @@
               "RelativeToolTip": "TestProject1\\Resources\\TestData.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-02T17:29:43.857Z"
+              "WhenOpened": "2024-08-02T17:29:43.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -225,16 +226,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Test.cs",
               "DocumentMoniker": "H:\\skayra_api\\TestProject1\\TestCases\\Test.cs",
               "RelativeDocumentMoniker": "TestProject1\\TestCases\\Test.cs",
               "ToolTip": "H:\\skayra_api\\TestProject1\\TestCases\\Test.cs",
               "RelativeToolTip": "TestProject1\\TestCases\\Test.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAA6AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:28:13.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T17:28:13.036Z"
             },
             {
               "$type": "Document",

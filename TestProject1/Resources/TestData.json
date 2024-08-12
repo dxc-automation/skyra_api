@@ -1,7 +1,7 @@
 ﻿{
   "Web": {
     "BaseURL": "http://blankfactor.com",
-    "Email": "sandboxqa22@gmail.com"
+    "Email":   "c2FuZGJveHFhMjJAZ21haWwuY29t"
   },
   "API": {
     "Host": "https://jsonplaceholder.typicode.com/"

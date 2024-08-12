@@ -519,3 +519,4 @@ H:\skayra_api\TestProject1\obj\Debug\net8.0\refint\demo.dll
 H:\skayra_api\TestProject1\obj\Debug\net8.0\demo.pdb
 H:\skayra_api\TestProject1\obj\Debug\net8.0\demo.genruntimeconfig.cache
 H:\skayra_api\TestProject1\obj\Debug\net8.0\ref\demo.dll
+H:\skayra_api\TestProject1\obj\Debug\net8.0\demo.sourcelink.json

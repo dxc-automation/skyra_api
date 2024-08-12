@@ -17,8 +17,8 @@ namespace demo.Data
             JObject json = JObject.Parse(jsonString);
 
             Constants.baseUrl = json.SelectToken("$.Web.BaseURL").ToString();
-            Constants.email = json.SelectToken("$.Web.Email").ToString();
-            Constants.host = json.SelectToken("$.API.Host").ToString();
+            Constants.email   = Base64Decode(json.SelectToken("$.Web.Email").ToString());
+            Constants.host    = json.SelectToken("$.API.Host").ToString();
         }
 
 

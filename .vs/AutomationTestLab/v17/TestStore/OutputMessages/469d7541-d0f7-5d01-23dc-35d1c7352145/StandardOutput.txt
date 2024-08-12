@@ -1,0 +1,952 @@
+
+Selected Test Category: Demo
+2024-08-10 05:58:05.3924|INFO|demo.TestScripts.Web.Helpers.ActionsElements|By.Id: hs-eu-confirmation-button has been successfully localized
+2024-08-10 05:58:05.6150|INFO|demo.TestScripts.Web.Helpers.ActionsElements|By.Id: menu-item-4436 has been successfully localized
+2024-08-10 05:58:07.4091|INFO|demo.TestScripts.Web.Helpers.ActionsElements|By.XPath: //a[contains(text(),'Go to blog')] has been successfully localized
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Why fintech in Latin America is booming']"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stalement Element expection occured, re-trying to find element
+2024-08-10 05:58:25.1964|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/
+2024-08-10 05:58:25.2321|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/about/
+2024-08-10 05:58:25.2668|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/
+2024-08-10 05:58:25.2973|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/data-digital-engineering/
+2024-08-10 05:58:25.3214|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/data-engineering-and-business-intelligence/#data_lakes
+2024-08-10 05:58:25.3583|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/data-engineering-and-business-intelligence/#etl_elt_and_migrations
+2024-08-10 05:58:25.3980|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/enterprise-ai/
+2024-08-10 05:58:25.7456|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/enterprise-ai/#financial_services
+2024-08-10 05:58:25.7991|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/enterprise-ai/#life_sciences
+2024-08-10 05:58:25.8259|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/#
+2024-08-10 05:58:25.8514|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/front-end-development/
+2024-08-10 05:58:25.8860|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/back-end-development/
+2024-08-10 05:58:25.9292|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/quality-assurance/
+2024-08-10 05:58:25.9574|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/cloud-devops/
+2024-08-10 05:58:26.0078|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/mobile-app-development/
+2024-08-10 05:58:26.0430|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/
+2024-08-10 05:58:26.0669|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/banking-capital-markets/
+2024-08-10 05:58:26.0957|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/payments/
+2024-08-10 05:58:26.1170|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/insurance/
+2024-08-10 05:58:26.1390|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/retirement-and-wealth/
+2024-08-10 05:58:26.1586|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/careers/
+2024-08-10 05:58:26.1770|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/
+2024-08-10 05:58:26.1979|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/contact/
+2024-08-10 05:58:26.2221|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.facebook.com/Blankfactorsoftware
+2024-08-10 05:58:26.2404|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.linkedin.com/company/Blankfactor/
+2024-08-10 05:58:26.2590|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://twitter.com/_Blankfactor
+2024-08-10 05:58:26.2773|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.instagram.com/_blankfactor/
+2024-08-10 05:58:26.2971|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/
+2024-08-10 05:58:26.3154|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/full-stack-product-development/
+2024-08-10 05:58:26.3336|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/
+2024-08-10 05:58:26.3526|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/10-years-accelerating-digital-innovation-in-financial-services/
+2024-08-10 05:58:26.3721|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/leadership-mindset-culture-fuel-digital-transformation/
+2024-08-10 05:58:26.3894|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/heres-how-ux-teams-and-design-thinking-can-power-your-next-digital-product/
+2024-08-10 05:58:26.4074|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/want-digital-transformation-optimize-your-cloud-strategy-and-go-cloud-native-in-2023/
+2024-08-10 05:58:26.4777|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/success-stories/
+2024-08-10 05:58:26.4984|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/consensus-algorithms/
+2024-08-10 05:58:26.5191|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/design-thinking/
+2024-08-10 05:58:26.5389|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/hiring-and-recruitment/
+2024-08-10 05:58:26.5572|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/embedded-financial-services/
+2024-08-10 05:58:26.5762|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/fis-emerald/
+2024-08-10 05:58:26.5936|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/contact/
+2024-08-10 05:58:26.6130|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/
+2024-08-10 05:58:26.6313|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/retirement-and-wealth/
+2024-08-10 05:58:26.6600|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/
+2024-08-10 05:58:26.6821|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Services
+https://blankfactor.com/services/
+2024-08-10 05:58:26.7022|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/data-digital-engineering/
+2024-08-10 05:58:26.7242|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/enterprise-ai/
+2024-08-10 05:58:26.7434|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/full-stack-product-development
+2024-08-10 05:58:26.7623|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/services/
+2024-08-10 05:58:26.7812|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Industries
+https://blankfactor.com/industries/
+2024-08-10 05:58:26.7999|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/banking-capital-markets/
+2024-08-10 05:58:26.8206|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/payments/
+2024-08-10 05:58:26.8433|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/insurance/
+2024-08-10 05:58:26.8646|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/industries/retirement-and-wealth/
+2024-08-10 05:58:26.8842|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/contact/
+2024-08-10 05:58:26.9091|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Insights
+https://blankfactor.com/insights/
+2024-08-10 05:58:26.9286|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Careers
+https://blankfactor.com/careers/
+2024-08-10 05:58:26.9478|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|About
+https://blankfactor.com/about/
+2024-08-10 05:58:26.9675|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Let's talk
+https://blankfactor.com/contact/
+2024-08-10 05:58:26.9860|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/enterprise-ai/
+2024-08-10 05:58:27.0063|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:27.0258|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/petr-lavrov/
+2024-08-10 05:58:27.0455|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.0636|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/petr-lavrov/
+2024-08-10 05:58:27.0821|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.1021|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:27.1245|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/data/
+2024-08-10 05:58:27.1441|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:27.1640|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/malay-patel/
+2024-08-10 05:58:27.1836|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/heatherjordan/
+2024-08-10 05:58:27.2027|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.2264|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/malay-patel/
+2024-08-10 05:58:27.2450|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/heatherjordan/
+2024-08-10 05:58:27.2663|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.2879|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:27.3104|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/data/
+2024-08-10 05:58:27.3318|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:27.3533|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/denise-dangelo/
+2024-08-10 05:58:27.3742|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/denise-dangelo/
+2024-08-10 05:58:27.3941|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:27.4139|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/company-and-culture/
+2024-08-10 05:58:27.4339|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:27.4526|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.4722|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.4920|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:27.5112|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Enterprise AI
+https://blankfactor.com/category/enterprise-ai/
+2024-08-10 05:58:27.5302|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:27.5487|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/petr-lavrov/
+2024-08-10 05:58:27.5678|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.5865|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/
+2024-08-10 05:58:27.6050|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.6263|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:27.6455|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/data/
+2024-08-10 05:58:27.6635|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:27.6836|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/malay-patel/
+2024-08-10 05:58:27.7052|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/heatherjordan/
+2024-08-10 05:58:27.7315|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.7503|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/malay-patel/
+2024-08-10 05:58:27.7694|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/heatherjordan/
+2024-08-10 05:58:27.7876|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.8065|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:27.8271|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/data/
+2024-08-10 05:58:27.8453|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:27.8669|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/denise-dangelo/
+2024-08-10 05:58:27.8845|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/denise-dangelo/
+2024-08-10 05:58:27.9030|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:27.9228|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/company-and-culture/
+2024-08-10 05:58:27.9472|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:27.9714|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:27.9984|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.0175|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:28.0353|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/enterprise-ai/
+2024-08-10 05:58:28.0538|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:28.0758|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/petr-lavrov/
+2024-08-10 05:58:28.0953|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.1155|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/petr-lavrov/
+2024-08-10 05:58:28.1346|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.1528|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:28.1711|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/data/
+2024-08-10 05:58:28.1912|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:28.2136|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/malay-patel/
+2024-08-10 05:58:28.2338|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/heatherjordan/
+2024-08-10 05:58:28.2529|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.2712|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/malay-patel/
+2024-08-10 05:58:28.2900|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/heatherjordan/
+2024-08-10 05:58:28.3107|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.3293|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:28.3478|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/data/
+2024-08-10 05:58:28.3679|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:28.3862|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/denise-dangelo/
+2024-08-10 05:58:28.4049|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/denise-dangelo/
+2024-08-10 05:58:28.4238|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:28.4433|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/category/company-and-culture/
+2024-08-10 05:58:28.4638|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:28.4828|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.5016|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.5199|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:28.5403|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:28.5601|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Enterprise AI
+https://blankfactor.com/category/enterprise-ai/
+2024-08-10 05:58:28.5803|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Best enterprise AI tools for development teams
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:28.6002|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/petr-lavrov/
+2024-08-10 05:58:28.6230|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.6429|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Petr Lavrov
+https://blankfactor.com/author/petr-lavrov/
+2024-08-10 05:58:28.6630|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.6815|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/insights/blog/best-enterprise-ai-tools-for-development-teams/
+2024-08-10 05:58:28.7014|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:28.7215|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Data
+https://blankfactor.com/category/data/
+2024-08-10 05:58:28.7421|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Key impacts of T+1: Navigating financial services transformation
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:28.7640|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/malay-patel/
+2024-08-10 05:58:28.7825|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/heatherjordan/
+2024-08-10 05:58:28.8018|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.8202|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Malay Patel
+https://blankfactor.com/author/malay-patel/
+2024-08-10 05:58:28.8388|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Heather Jordan
+https://blankfactor.com/author/heatherjordan/
+2024-08-10 05:58:28.8585|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:28.8786|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/insights/blog/key-impacts-of-t1-navigating-financial-services-transformation/
+2024-08-10 05:58:28.8995|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:28.9185|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Data
+https://blankfactor.com/category/data/
+2024-08-10 05:58:28.9369|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Enabling data and digital transformation for a wealth management leader
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:28.9582|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/denise-dangelo/
+2024-08-10 05:58:28.9814|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Denise D'Angelo
+https://blankfactor.com/author/denise-dangelo/
+2024-08-10 05:58:29.0003|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/insights/blog/how-a-wealth-management-leader-transformed-their-data-landscape/
+2024-08-10 05:58:29.0202|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/
+2024-08-10 05:58:29.0375|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Software development
+https://blankfactor.com/category/software-development/
+2024-08-10 05:58:29.0547|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Effective PI planning: Optimizing Agile delivery & embracing innovation
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/
+2024-08-10 05:58:29.0735|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.0931|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.1113|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/insights/blog/effective-pi-planning-optimizing-agile-delivery-embracing-innovation/
+2024-08-10 05:58:29.1316|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/
+2024-08-10 05:58:29.1517|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Financial technology
+https://blankfactor.com/category/financial-technology/
+2024-08-10 05:58:29.1703|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|6 payments data challenges PSPs face and how to solve them
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/
+2024-08-10 05:58:29.1890|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.2074|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.2271|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/6-payments-data-challenges-psps-face-and-how-to-solve-them/
+2024-08-10 05:58:29.2465|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/
+2024-08-10 05:58:29.2676|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Enterprise AI
+https://blankfactor.com/category/enterprise-ai/
+2024-08-10 05:58:29.2855|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Navigating the future of GenAI: A strategic roadmap for asset managers
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/
+2024-08-10 05:58:29.3038|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.3214|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.3394|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/navigating-the-future-of-genai-a-strategic-roadmap-for-asset-managers/
+2024-08-10 05:58:29.3592|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/
+2024-08-10 05:58:29.3783|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Boosting patient scheduling by 6x with the power of AI
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/
+2024-08-10 05:58:29.3975|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.4159|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.4354|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/insights/blog/boosting-patient-scheduling-by-6x-with-ai/
+2024-08-10 05:58:29.4537|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:29.4816|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Company and culture
+https://blankfactor.com/category/company-and-culture/
+2024-08-10 05:58:29.5000|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Our impact by the numbers: How Blankfactor teams make a difference
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:29.5191|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.5396|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.5596|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/our-impact-how-blankfactor-teams-make-a-difference/
+2024-08-10 05:58:29.5788|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/
+2024-08-10 05:58:29.5978|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cloud technology
+https://blankfactor.com/category/cloud-technology/
+2024-08-10 05:58:29.6163|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Revitalizing reporting for lifesaving 911 software solutions
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/
+2024-08-10 05:58:29.6357|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.6540|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.6720|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/revitalizing-reporting-for-lifesaving-911-software-solutions/
+2024-08-10 05:58:29.6906|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/
+2024-08-10 05:58:29.7109|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Design
+https://blankfactor.com/category/design/
+2024-08-10 05:58:29.7322|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Unlocking the value of UX design for a top five biotech innovator
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/
+2024-08-10 05:58:29.7511|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.7693|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Cherri Buijk
+https://blankfactor.com/author/cherribuijk/
+2024-08-10 05:58:29.7883|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Read more
+https://blankfactor.com/unlocking-the-value-of-ux-design-for-a-top-five-biotech-innovator/
+2024-08-10 05:58:29.8070|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.facebook.com/Blankfactorsoftware
+2024-08-10 05:58:29.8264|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.linkedin.com/company/Blankfactor/
+2024-08-10 05:58:29.8463|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://twitter.com/_Blankfactor
+2024-08-10 05:58:29.8665|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.instagram.com/_blankfactor/
+2024-08-10 05:58:29.8873|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+mailto:sales@blankfactor.com
+2024-08-10 05:58:29.9567|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/
+2024-08-10 05:58:29.9773|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Accelerating EMV Level 3 certification with end-to-end testing expertise 
+https://blankfactor.com/insights/blog/accelerating-emv-level-3-certification-with-end-to-end-testing-expertise/
+2024-08-10 05:58:29.9983|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/
+2024-08-10 05:58:30.0170|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|6 key payments industry trends shaping 2024
+https://blankfactor.com/insights/blog/6-key-payments-industry-trends-shaping-2024/
+2024-08-10 05:58:30.0366|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/
+2024-08-10 05:58:30.0553|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|How firms can unleash enterprise AI transformation
+https://blankfactor.com/blog/how-firms-can-unleash-enterprise-ai-transformation/
+2024-08-10 05:58:30.0752|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Let's get started
+https://blankfactor.com/contact/
+2024-08-10 05:58:30.0994|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/
+2024-08-10 05:58:30.1178|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|About
+https://blankfactor.com/about/
+2024-08-10 05:58:30.1380|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Services
+https://blankfactor.com/services/
+2024-08-10 05:58:30.1569|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Careers
+https://blankfactor.com/careers/
+2024-08-10 05:58:30.1768|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Insights
+https://blankfactor.com/insights/
+2024-08-10 05:58:30.1955|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|Privacy Policy
+https://blankfactor.com/privacy/
+2024-08-10 05:58:30.2149|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://blankfactor.com/insights/blog/#
+2024-08-10 05:58:30.2335|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.facebook.com/Blankfactorsoftware
+2024-08-10 05:58:30.2542|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.linkedin.com/company/Blankfactor/
+2024-08-10 05:58:30.2722|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://twitter.com/_Blankfactor
+2024-08-10 05:58:30.2915|INFO|demo.TestScripts.Web.PageObjects.InsightsPage|
+https://www.instagram.com/_blankfactor/
+
+[WEB] Subscribe To The Newsletter  - Passed
+
+Generating test report...........
